@@ -1,0 +1,369 @@
+.header {
+  position: absolute;
+  width: 100%;
+}
+
+.navbar {
+  border-bottom: 1px none #000;
+  background-color: transparent;
+}
+
+.logo {
+  width: 220px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.nav-menu {
+  margin-top: 35px;
+}
+
+.body {
+  font-family: Montserrat, sans-serif;
+}
+
+.slider {
+  height: 100vh;
+}
+
+.slide1 {
+  background-image: url('../images/hero.jpg');
+  background-position: 50% 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.slide2 {
+  background-image: url('../images/pexels-photo-534151.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+
+.slide3 {
+  background-image: url('../images/hero3.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  -webkit-filter: brightness(89%);
+  filter: brightness(89%);
+}
+
+.heading {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.heading.white {
+  color: #fff;
+}
+
+.paragraph {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.row {
+  margin-bottom: 50px;
+}
+
+.logo-body {
+  width: 200px;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.center-img {
+  margin-top: 15px;
+  margin-bottom: 21px;
+  text-align: center;
+}
+
+.misionvision {
+  background-color: #254071;
+}
+
+.block-quote {
+  border-color: #254071 #254071 #254071 #fff;
+  color: #fff;
+  font-size: 30px;
+  line-height: 30px;
+}
+
+.p-quote {
+  margin-bottom: 50px;
+  color: #fff;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.prize {
+  height: 90px;
+  margin-bottom: 25px;
+}
+
+.slide-nav {
+  display: none;
+}
+
+.row-2 {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.servicios-p {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.serv-icon {
+  height: 80px;
+}
+
+.slide4 {
+  background-image: url('../images/hero4.jpg');
+  background-position: 50% -77px;
+  background-size: cover;
+}
+
+.contacto {
+  padding-bottom: 50px;
+  background-color: #254071;
+}
+
+.map {
+  width: 95%;
+}
+
+.paragraph-2 {
+  margin-top: 20px;
+}
+
+.white-label {
+  color: #fff;
+}
+
+.footer {
+  height: 60px;
+  background-color: #1c1c17;
+}
+
+.foot-text {
+  margin-top: 20px;
+  color: #8f8f8f;
+  font-size: 12px;
+  text-align: center;
+}
+
+.map-2 {
+  height: 360px;
+}
+
+.nav-link {
+  color: #fff;
+  text-shadow: 0 0 1px #000;
+}
+
+.inmogrid {
+  padding-top: 50px;
+  border-top: 1px solid #d6c6c6;
+  background-color: #fcfcfc;
+}
+
+.inmo-imagen {
+  width: 100%;
+  max-height: 600px;
+}
+
+.row-3 {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.text-block-2 {
+  margin-bottom: 25px;
+}
+
+.text-block-3 {
+  margin-top: 23px;
+  margin-bottom: 20px;
+}
+
+.link-block {
+  color: #000;
+  text-decoration: none;
+}
+
+.div-block {
+  margin-bottom: 10px;
+  border: 1px solid #cfcfcf;
+  border-radius: 5px;
+  box-shadow: 3px 3px 4px 0 rgba(0, 0, 0, .09);
+}
+
+.div-block-2 {
+  padding-right: 10px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+}
+
+.collection-list-wrapper {
+  margin-bottom: 50px;
+}
+
+.row-4 {
+  margin-top: 13px;
+}
+
+.text-block-4 {
+  border: 1px none #a09393;
+  color: #4fad3b;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.text-block-5 {
+  border: 1px none #a09393;
+  color: #576eb2;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.text-block-6 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 1px solid #868686;
+  color: #000;
+  font-size: 25px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.text-block-7 {
+  text-align: center;
+}
+
+.heading-2 {
+  background-color: #464646;
+  color: #fff;
+  text-align: center;
+}
+
+.heading-3 {
+  font-size: 16px;
+}
+
+.slide12 {
+  background-image: url('../images/o-MILLENNIALS-HOUSE-facebook.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.team {
+  overflow: hidden;
+  width: 200px;
+  height: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 2px solid #dfdfdf;
+  border-radius: 50%;
+}
+
+.teamcol {
+  text-align: center;
+}
+
+.image {
+  margin-top: 20px;
+}
+
+.row-5 {
+  margin-bottom: 90px;
+}
+
+.slide5 {
+  background-image: url('../images/11RE.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+@media (max-width: 991px) {
+  .logo {
+    width: 180px;
+  }
+  .nav-menu {
+    margin-top: 0px;
+    padding-top: 60px;
+    background-color: #5970b5;
+    text-align: center;
+  }
+  .ham.w--open {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    z-index: 900;
+    clear: none;
+    background-color: #008cd1;
+  }
+  .nav-link {
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+  }
+}
+
+@media (max-width: 767px) {
+  .nav-menu {
+    padding-top: 60px;
+    background-color: #5970b5;
+  }
+  .ham.w--open {
+    z-index: 999;
+  }
+  .nav-link {
+    color: #fff;
+    text-transform: uppercase;
+  }
+}
+
+@media (max-width: 479px) {
+  .slider {
+    height: 70vh;
+  }
+  .paragraph {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  .p-quote {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  .servicios-p {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  .form-block {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  .white-label {
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: left;
+  }
+  .map-2 {
+    display: none;
+    height: 300px;
+  }
+  .plano {
+    display: none;
+  }
+}
+
